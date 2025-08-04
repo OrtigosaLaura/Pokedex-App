@@ -1,0 +1,2 @@
+git config --global user.name OrtigosaLaura
+git config --global user.email lauraortigosa378@gmail.com
