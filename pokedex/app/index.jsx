@@ -6,7 +6,7 @@ import Card from "../componentes/Card";
 export default function Index() {
 
   const renderPokemon = ({ item }) => (
-    <Card pokemon={item}/>
+    <Text>{item.name}</Text>
   )
 
   return (
