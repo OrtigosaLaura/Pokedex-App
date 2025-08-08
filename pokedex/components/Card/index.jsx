@@ -29,7 +29,7 @@ export default function Card({ pokemon }) {
       </View>
 
       <View style={styles.imageContainer}>
-        <Image source={{ uri: pokemon.Imagem }} style={styles.imagem} />
+        <Image source={{ uri: pokemon.Imagem }} style={styles.imagem}/>
       </View>
     </TouchableOpacity>
   );
